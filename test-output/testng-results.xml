@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-25T11:35:59Z" name="Default suite" finished-at="2023-03-25T11:36:16Z" duration-ms="17475">
+    <groups>
+    </groups>
+    <test started-at="2023-03-25T11:35:59Z" name="Default test" finished-at="2023-03-25T11:36:16Z" duration-ms="17475">
+      <class name="com.seleniumtesting111.Task250323">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:com.seleniumtesting111.Task250323@68dc098b]" started-at="2023-03-25T17:05:59Z" name="beforetest" finished-at="2023-03-25T17:06:04Z" duration-ms="5139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.seleniumtesting111.Task250323@68dc098b]" started-at="2023-03-25T17:06:04Z" name="beforeclass" finished-at="2023-03-25T17:06:04Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.seleniumtesting111.Task250323@68dc098b]" started-at="2023-03-25T17:06:04Z" name="beforemethod" finished-at="2023-03-25T17:06:04Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="select2()[pri:0, instance:com.seleniumtesting111.Task250323@68dc098b]" started-at="2023-03-25T17:06:04Z" name="select2" finished-at="2023-03-25T17:06:08Z" duration-ms="4406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select2 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.seleniumtesting111.Task250323@68dc098b]" started-at="2023-03-25T17:06:08Z" name="aftermethod" finished-at="2023-03-25T17:06:08Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.seleniumtesting111.Task250323@68dc098b]" started-at="2023-03-25T17:06:08Z" name="beforemethod" finished-at="2023-03-25T17:06:08Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="upload()[pri:0, instance:com.seleniumtesting111.Task250323@68dc098b]" started-at="2023-03-25T17:06:08Z" name="upload" finished-at="2023-03-25T17:06:16Z" duration-ms="7715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upload -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.seleniumtesting111.Task250323@68dc098b]" started-at="2023-03-25T17:06:16Z" name="aftermethod" finished-at="2023-03-25T17:06:16Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.seleniumtesting111.Task250323@68dc098b]" started-at="2023-03-25T17:06:16Z" name="afterclass" finished-at="2023-03-25T17:06:16Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="teardwon()[pri:0, instance:com.seleniumtesting111.Task250323@68dc098b]" started-at="2023-03-25T17:06:16Z" name="teardwon" finished-at="2023-03-25T17:06:16Z" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwon -->
+      </class> <!-- com.seleniumtesting111.Task250323 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

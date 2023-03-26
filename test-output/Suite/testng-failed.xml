@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Test">
+    <classes>
+      <class name="com.seleniumtesting111.radioTNG">
+        <methods>
+          <include name="radio"/>
+        </methods>
+      </class> <!-- com.seleniumtesting111.radioTNG -->
+      <class name="com.seleniumtesting111.SelectTNG">
+        <methods>
+          <include name="select2"/>
+        </methods>
+      </class> <!-- com.seleniumtesting111.SelectTNG -->
+      <class name="com.seleniumtesting111.TextTNG">
+        <methods>
+          <include name="text"/>
+        </methods>
+      </class> <!-- com.seleniumtesting111.TextTNG -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->

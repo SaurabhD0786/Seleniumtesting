@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<classes>
+			<class name="com.seleniumtesting111.radioTNG">
+
+				<methods>
+
+					<include name="radio"></include>
+
+				</methods>
+			</class>
+			<class name="com.seleniumtesting111.SelectTNG">
+				<methods>
+					<include name="select2"></include>
+				</methods>
+			</class>
+			<class name="com.seleniumtesting111.TextTNG">
+				<methods>
+					<include name="text"></include>
+				</methods>
+
+			</class>
+		</classes>
+
+	</test>
+</suite>
